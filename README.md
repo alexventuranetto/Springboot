@@ -26,6 +26,8 @@ Esse projeto consulta a **localização geográfica de um IP** utilizando uma AP
 cd geolocalizacao-api
 ./mvnw spring-boot:run
 
+---
+
 ## 🏠 PROJETO 2: Busca de Endereço com ViaCEP
 
 📘 Descrição
