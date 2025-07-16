@@ -20,39 +20,15 @@ Esse projeto consulta a **localização geográfica de um IP** utilizando uma AP
 - Spring Boot
 - API REST externa (Geolocalização)
 
-### ▶️ Como executar
-
-```bash
-cd geolocalizacao-api
-./mvnw spring-boot:run
-
 ---
 
 ## 🏠 PROJETO 2: Busca de Endereço com ViaCEP
 
-📘 Descrição
+### 📘 Descrição
 Este projeto realiza a consulta de dados de endereço a partir de um CEP, utilizando a API pública do ViaCEP.
 
-🔧 Tecnologias
+### 🔧 Tecnologias
 - Java 17
 - Spring Boot
 - API ViaCEP
-
-### ▶️ Como executar
-```bash
-cd viacep-api
-./mvnw spring-boot:run
-
-### 📥 Exemplo de requisição
-GET /cep/01001000
-📤 Exemplo de resposta
-
-- json
-{
-  "cep": "01001-000",
-  "logradouro": "Praça da Sé",
-  "bairro": "Sé",
-  "localidade": "São Paulo",
-  "uf": "SP"
-}
 
