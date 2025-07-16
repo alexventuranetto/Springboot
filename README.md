@@ -42,3 +42,11 @@ ChatBot que integra com a API Gemini (Google AI), permitindo gerar respostas int
 - Java 17
 - Spring Boot
 - Google Gemini API (Key obrigatória)
+
+
+## 👨‍💻 Autor
+Alex Venturanetto
+GitHub
+________________________________________
+## 📄 Licença
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.
