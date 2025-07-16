@@ -32,3 +32,13 @@ Este projeto realiza a consulta de dados de endereço a partir de um CEP, utiliz
 - Spring Boot
 - API ViaCEP
 
+---
+
+## 🤖 Projeto 3: ChatBot com API Gemini (Google AI)
+### 📘 Descrição
+ChatBot que integra com a API Gemini (Google AI), permitindo gerar respostas inteligentes a partir de perguntas feitas pelo usuário.
+
+### 🔧 Tecnologias
+- Java 17
+- Spring Boot
+- Google Gemini API (Key obrigatória)
